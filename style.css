@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    background: black;
+    color: white;
+    text-align: center;
+    font-family: Arial;
+}
+
+canvas {
+    border: 3px solid red;
+    background: #111;
+    touch-action: none; /* สำคัญสำหรับมือถือ */
+}
